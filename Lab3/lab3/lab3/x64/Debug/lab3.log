@@ -1,0 +1,5 @@
+﻿  lab3.cpp
+C:\Users\grebd\OneDrive\Desktop\cPlusAcadem\Algosi\Lab3\lab3\lab3\lab3.cpp(46,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\grebd\OneDrive\Desktop\cPlusAcadem\Algosi\Lab3\lab3\lab3\lab3.cpp(236,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\grebd\OneDrive\Desktop\cPlusAcadem\Algosi\Lab3\lab3\lab3\lab3.cpp(237,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab3.vcxproj -> C:\Users\grebd\OneDrive\Desktop\cPlusAcadem\Algosi\Lab3\lab3\x64\Debug\lab3.exe
