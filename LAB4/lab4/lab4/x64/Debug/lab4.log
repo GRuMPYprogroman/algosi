@@ -1,0 +1,9 @@
+﻿  lab4.cpp
+C:\Users\Stepan\Desktop\ALG\LAB4\lab4\lab4\lab4.cpp(59,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stepan\Desktop\ALG\LAB4\lab4\lab4\lab4.cpp(59,17): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Stepan\Desktop\ALG\LAB4\lab4\lab4\lab4.cpp(75,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Stepan\Desktop\ALG\LAB4\lab4\lab4\lab4.cpp(93,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stepan\Desktop\ALG\LAB4\lab4\lab4\lab4.cpp(101,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stepan\Desktop\ALG\LAB4\lab4\lab4\lab4.cpp(128,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stepan\Desktop\ALG\LAB4\lab4\lab4\lab4.cpp(129,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab4.vcxproj -> C:\Users\Stepan\Desktop\ALG\LAB4\lab4\x64\Debug\lab4.exe

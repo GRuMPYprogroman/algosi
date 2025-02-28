@@ -1,0 +1,5 @@
+﻿  lab5.cpp
+C:\Users\Stepan\Desktop\ALG\LAB5\lab5\lab5\lab5.cpp(46,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stepan\Desktop\ALG\LAB5\lab5\lab5\lab5.cpp(79,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stepan\Desktop\ALG\LAB5\lab5\lab5\lab5.cpp(100,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab5.vcxproj -> C:\Users\Stepan\Desktop\ALG\LAB5\lab5\x64\Debug\lab5.exe
